@@ -1,0 +1,21 @@
+.placeOrder{
+    width: 60%;
+    margin-left:20% ;
+    margin-top: 10%;
+    padding-bottom: 10%;
+}
+.placeOrder h1{
+    text-align: center;
+    color: rgb(207, 59, 13);
+}
+.placeOrder h3{
+    text-align: center;
+    color: cornsilk;
+    margin-top: 3%;
+}
+.placeOrder p{
+    text-align: center;
+    color: cornsilk;
+    margin-top: 7%;
+    font-size: 18px;
+}

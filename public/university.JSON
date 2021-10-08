@@ -1,0 +1,167 @@
+[
+    {
+      "id": "1",
+      "name": "Harvard University",
+      "score": "100.000",
+      "country": "USA",
+      "image": "https://i.ibb.co/dWvKtLq/harvard.jpg",
+      "league": "Diamond League",
+      "fee": 25952,
+      "rank": 1,
+      "established": "September 8, 1636"
+    },
+    {
+      "id": "2",
+      "name": "California Institute of Technology",
+      "score": "99.636",
+      "country": "USA",
+      "image": "https://i.ibb.co/8myWfpB/california.jpg",
+      "league": "Diamond League",
+      "fee": 56364,
+      "rank": 2,
+      "established": "September 23, 1891"
+    },
+    {
+      "id": "3",
+      "name": "Stanford University",
+      "score": "97.050",
+      "country": "USA",
+      "image": "https://i.ibb.co/wdyK9bF/starnford.jpg",
+      "league": "Diamond League",
+      "fee": 125000,
+      "rank": 3,
+      "established": "November 11, 1885"
+    },
+    {
+      "id": "4",
+      "name": "Imperial College London",
+      "score": "96.742",
+      "country": "USA",
+      "image": "https://i.ibb.co/x5w4c7X/Imperial-College-London.jpg",
+      "league": "Diamond League",
+      "fee": 26500 ,
+      "rank": 4,
+      "established": "July 8, 1907"
+    },
+    {
+      "id": "5",
+      "name": "Karolinska Institute",
+      "score": "96.609",
+      "country": "Sweden",
+      "image": "https://i.ibb.co/Rzb7Jww/Karolinska-Institute.jpg",
+      "league": "Diamond League",
+      "fee": 120,
+      "rank": 5,
+      "established": "1810"
+    },
+    {
+      "id": "6",
+      "name": "Massachusetts Institute of Technology",
+      "score": "96.370",
+      "country": "USA",
+      "image": "https://i.ibb.co/DkVQkkv/Massachusetts-Institute-of-Technology.jpg",
+      "league": "Diamond League",
+      "fee": 59790 ,
+      "rank": 6,
+      "established": "April 10, 1861"
+    },
+    {
+      "id": "7",
+      "name": "University of Oxford",
+      "score": "96.167",
+      "country": "UK",
+      "image": "https://i.ibb.co/WPfmTT4/University-of-Oxford.jpg",
+      "league": "Diamond League",
+      "fee": 30330,
+      "rank": 7,
+      "established": "1096"
+    },
+    {
+      "id": "8",
+      "name": "ETH Zurich (Swiss Federal Institute of Technology)",
+      "score": "94.629",
+      "country": "Switzerland",
+      "image": "https://i.ibb.co/DKMgntv/ETH-Zurich-Swiss-Federal-Institute-of-Technology.jpg",
+      "league": "Diamond League",
+      "fee": 840,
+      "rank": 8,
+      "established": "1855"
+    },
+    {
+      "id": "9",
+      "name": "University of Cambridge",
+      "score": "94.383",
+      "country": "UK",
+      "image": "https://i.ibb.co/9w2BVVX/University-of-Cambridge.jpg",
+      "league": "Diamond League",
+      "fee": 9250,
+      "rank": 9,
+      "established": "1209"
+    },
+    {
+      "id": "10",
+      "name": "Columbia University",
+      "score": "94.132",
+      "country": "USA",
+      "image": "https://i.ibb.co/q1N3Xdr/Columbia-University.jpg",
+      "league": "Diamond League",
+      "fee": 61788,
+      "rank": 10,
+      "established": "May 25, 1754"
+    },
+    {
+      "id": "11",
+      "name": "University College London",
+      "score": "93.911",
+      "country": "UK",
+      "image": "https://i.ibb.co/mXzYJFH/University-College-London.jpg",
+      "league": "Diamond League",
+      "fee": 13050,
+      "rank": 11,
+      "established": "1826"
+    },
+    {
+      "id": "12",
+      "name": "Yale University",
+      "score": "93.797",
+      "country": "USA",
+      "image": "https://i.ibb.co/ncs12zw/Yale-University.jpg",
+      "league": "Diamond League",
+      "fee": 55500 ,
+      "rank": 12,
+      "established": "October 9, 1701"
+    },
+    {
+      "id": "13",
+      "name": "University of Pennsylvania",
+      "score": "93.741",
+      "country": "USA",
+      "image": "https://i.ibb.co/XzNw5CG/University-of-Pennsylvania.jpg",
+      "league": "Diamond League",
+      "fee": 57770,
+      "rank": 13,
+      "established": "1740"
+    },
+    {
+      "id": "14",
+      "name": "Johns Hopkins University",
+      "score": "93.617",
+      "country": "USA",
+      "image": "https://i.ibb.co/wQSNQXL/Johns-Hopkins-University.jpg",
+      "league": "Diamond League",
+      "fee": "55,350 USD",
+      "rank": 14,
+      "established": "1876"
+    },
+    {
+      "id": "15",
+      "name": "Northwestern University",
+      "score": "\t93.558",
+      "country": "USA",
+      "image": "https://i.ibb.co/LNmgw98/Northwestern-University.jpg",
+      "league": "Diamond League",
+      "fee": 56691,
+      "rank": 15,
+      "established": "January 28, 1851"
+    }
+  ]

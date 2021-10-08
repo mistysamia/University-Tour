@@ -1,0 +1,28 @@
+.eachUniversity{
+    border-bottom: 1px solid rgb(156, 146, 146);
+}
+
+.imgSection{
+    display: flex;
+    justify-content: center;
+}
+.imgSection .eachImg{
+    height: 300px;
+    width: 700px;
+    margin-top: 5%;
+}
+.imgSection .eachImg img{
+    height: 100%;
+    width: 100%;
+}
+.detailsSection{
+    text-align: center;
+}
+.detailsSection h2{
+    color: crimson;
+
+}
+.detailsSection p{
+    color: rgb(194, 184, 186);
+
+}

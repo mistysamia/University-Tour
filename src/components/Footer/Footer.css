@@ -1,0 +1,43 @@
+.footer{
+    margin: 0% 0% -120% 0%;
+
+    background-color: rgb(221, 209, 211);
+}
+.logoPartSection{
+    
+    padding: 5% 7% 5% 13%;
+}
+.logoPart{
+    height: 200px;
+    width: 200px; 
+}
+.logoPart p{
+    font-size: 18px;
+    color: rgb(23, 26, 26);
+    text-align: center;
+}
+.footerContactDetails{
+    padding: 8% 0% 5% 0%;
+}
+.footerContactDetails h5{ 
+    color: rgb(23, 26, 26);
+}
+
+.CopyRight h5{
+    text-align: center;
+    padding-bottom: 3%;
+    color: rgb(23, 26, 26);
+}
+.eachContactLogo{
+    height: 30px;
+    width: 30px;
+    margin-bottom: 3%;
+}
+.eachContactLogo img{
+    height: 100%;
+    width: 100%;
+}
+
+.displayContactLogo{
+    display: flex;  
+}

@@ -1,0 +1,32 @@
+.search-container{
+    background-color: rgba(0, 0, 0, 0.85);
+    text-align: center;
+    line-height: 40px;
+}
+.search-container input{
+    width: 75%;
+}
+.HomePageHeadingsImg{
+    width: 100%;
+}
+.HomePageHeadingsImg img{
+    width: 100%;
+}
+.HomePageHeadingsImg .heading{
+    color: whitesmoke;
+    margin-top: -45%;
+    margin-left: 10%;
+    font-size: 54px;
+}
+.HomePageHeadingsImg .headingDetails{
+    color: rgb(245, 245, 245);
+    font-size: 22px;
+    margin-left: 10%;
+}
+.cartPart{
+    box-shadow: 0px 0px 40px black;
+    background-color: rgb(15, 15, 15);  
+}
+.universityDetailsSHowPart{
+    margin-top: 36.5%;
+}

@@ -1,0 +1,37 @@
+.AboutHeadings{
+    width: 100%;
+ }
+ .AboutHeadings img{
+     width: 100%;
+     height: 100%;
+ } 
+.aboutHeading{
+    font-size: 45px;
+    text-align: center;
+    color: white;
+    padding-top: 1%;
+}
+.eachAboutDetails{
+     background-color: rgb(221, 209, 211);
+     height: 1000px;
+     border-radius: 12px;
+     margin: 7%;
+     padding-left: 4%;
+     padding-right: 4%;
+     padding-top: 5%;
+}
+.eachAboutDetails .detailsShow{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10%;
+}
+.aboutDesignImgPart{
+    height: 250px;
+    width: 320px;
+    margin: 10% 0% 10% 0%;
+}
+
+.aboutDesignImgPart img{
+    height: 100%;
+    width: 100%;
+}

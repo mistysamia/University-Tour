@@ -1,0 +1,73 @@
+.facultyHeadings{
+   width: 100%;
+}
+.facultyHeadings img{
+    width: 100%;
+    height: 100%;
+}
+.facultyHeading{
+    font-size: 45px;
+    text-align: center;
+    color: white;
+    padding-top: 1%;
+}
+.eachFacultyDetails{
+     background-color: rgb(221, 209, 211);
+     height: 1000px;
+     border-radius: 12px;
+     margin: 7%;
+     padding-left: 4%;
+     padding-right: 4%;
+     padding-top: 5%;
+}
+.eachFacultyDetails .detailsShow{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10%;
+}
+
+.eachCard{
+    width: 320px;
+    padding: 5% ;
+    background-color: rgba(66, 61, 61, 0.288);
+    border-radius: 7px;
+    box-shadow: 0px 0px 20px gray;
+   
+}
+.eachCard:hover{
+     animation-name: hovering;
+     animation-duration: 0.5s;
+     animation-iteration-count: infinite;  
+}
+@keyframes hovering {
+    from{
+        box-shadow: 0px 0px 20px rgb(41, 38, 38);
+    }
+    to{
+        box-shadow: 0px 0px 20px gray;
+    }
+}
+.eachCardImgSection{
+    display: flex;
+    justify-content: center;
+}
+.eachCardImg{
+    height: 200px;
+    width: 260px;
+}
+.eachCardImg img{
+    width: 100%;
+    height: 100%;
+}
+.eachCardDetails h4{
+    text-align: center;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    color: rgb(0, 2, 128);
+}
+.eachCardDetails h6{
+    text-align: center;
+}
+.eachCardDetails .facultyPosition{
+    color: green;
+}
